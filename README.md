@@ -27,12 +27,18 @@ I'm **Ritesh Ranjan**, a B.Tech Computer Science student with a strong passion f
 
 ---
 
-
-
 ## 💼 Hire Me
 
 Need a website built or fixed?  
 📌 [Hire me on Freelancer](https://www.freelancer.com/u/riteshranjan09)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -42,11 +48,5 @@ If you enjoy my work and want to support me:
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ritesh_09)
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
-</picture>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ritesh-0309.ritesh-0309)
