@@ -1,29 +1,66 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ritesh Ranjan</h1>
+<h3 align="center">A passionate Frontend Developer & YouTuber from India</h3>
 
-I'm **Ritesh Ranjan**, a B.Tech Computer Science student with a strong passion for frontend development. I have 3+ months of experience building responsive web apps using **HTML**, **CSS**, **JavaScript**, **React.js**, and **Tailwind CSS**. I've worked with international clients and run a YouTube channel where I share coding tutorials and frontend tips. I'm currently seeking a **frontend internship** to contribute to impactful projects and grow in a professional environment.
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ritesh-0309" alt="ritesh-0309" />
+  </a> 
+</p>
 
+- 🌐 Portfolio: [https://riteshranjan09.netlify.app/](https://riteshranjan09.netlify.app/)
+
+- 👯 My Area of Interest's are **Web development, UI/UX Designing and Development, Full Stack Development**
+
+- 📹 I run a YouTube channel called [Procoder09](https://www.youtube.com/@Procoder09) for frontend tutorials and coding tips
+
+- 📫 Reach me at **ranjanritesh0309@gmail.com**
+
+- 🔗 GitHub: [github.com/ritesh-0309](https://github.com/ritesh-0309)
 ---
 
 ## 🔗 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-ranjan09/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@procoder09)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ritesh_ranjan_09/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rk032002)
+<p align="left">
+<a href="https://linkedin.com/in/sarthak-jainn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jainn" height="30" width="40" /></a>
+<a href="https://instagram.com/codebysarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codebysarthak" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@codebysarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codebysarthak" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@codebysarthak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="@codebysarthak" height="30" width="30" /></a>
+</p>
+
 
 ---
 
 ## ⚒️ Skills & Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <a href="https://www.w3.org/html/" target="_blank" style="background: none; border: none; cursor: pointer; ">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="40" width="40" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" width="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -47,6 +84,8 @@ Need a website built or fixed?
 If you enjoy my work and want to support me:  
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ritesh_09)
 
----
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ritesh-0309&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh0309" /> 
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ritesh-0309.ritesh-0309)
