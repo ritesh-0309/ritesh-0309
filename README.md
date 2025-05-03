@@ -9,7 +9,7 @@
 
 - 🌐 Portfolio: [https://riteshranjan09.netlify.app/](https://riteshranjan09.netlify.app/)
 
-- 👯 My Area of Interest's are **Web development, UI/UX Designing and Development, Full Stack Development**
+- 👯 My Area of Interest's are **Web development, UI/UX Designing and Development, Full Stack Development, Youtube**
 
 - 📹 I run a YouTube channel called [Procoder09](https://www.youtube.com/@Procoder09) for frontend tutorials and coding tips
 
