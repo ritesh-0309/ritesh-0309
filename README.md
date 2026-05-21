@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/ritesh-ranjan09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jainn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ritesh_ranjan_09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codebysarthak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@procoder09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codebysarthak" height="30" width="40" /></a>
-<a href="https://t.me/procoder09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="@procoder09" height="30" width="30" /></a>
+<a href="https://t.me/procoder09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telegram_alternative_logo.svg/1280px-Telegram_alternative_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="@procoder09" height="30" width="30" /></a>
 </p>
 
 
