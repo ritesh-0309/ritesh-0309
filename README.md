@@ -21,10 +21,10 @@
 ## 🔗 Socials
 
 <p align="left">
-<a href="https://linkedin.com/in/sarthak-jainn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jainn" height="30" width="40" /></a>
-<a href="https://instagram.com/codebysarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codebysarthak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codebysarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codebysarthak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codebysarthak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="@codebysarthak" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ritesh-ranjan09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jainn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ritesh_ranjan_09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codebysarthak" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@procoder09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codebysarthak" height="30" width="40" /></a>
+<a href="https://t.me/procoder09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="@codebysarthak" height="30" width="30" /></a>
 </p>
 
 
